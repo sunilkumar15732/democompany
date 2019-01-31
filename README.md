@@ -8,29 +8,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 To install this theme you will need a wordpress installed on your device.
-After installation you will just have to make a folder in the wp-theme folder and extract all files in that folder. After this you will just have to activate this theme in your wordpress. After activation if user want to make any change the user can do it by simply customize the theme. User don't have to do any code. The user instructions are given below. The demo link after hosting the theme is :-
+After installation you will just have to make a folder in the wp-theme folder and extract all files in that folder. After this you will just have to activate this theme in your wordpress. After activation if user want to make any change the user can do it by simply customize the theme. User don't have to do any code. The demo link after hosting the theme is :-
 
 ```
 https://demosunil.000webhostapp.com/
 ```
 
-### Installing
+### User Instructions
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+the user instructions to make changes in site are in the link given below :-
 ```
-Give the example
+https://youtu.be/TcbUVezA3BI
 ```
 
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
@@ -74,7 +65,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sunil Kumar** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
