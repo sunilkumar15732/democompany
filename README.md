@@ -1,6 +1,6 @@
-# Project Title
+# Democompany Frontend
 
-One Paragraph of project description goes here
+This is a wordpress theme.This theme is based on the theme challenge statement given by rtcamp. The link for proble statement is https://github.com/rtCamp/hiring-assignments/tree/master/WordPress-Engineer#challenge-2-wordpress-plugin-challenge . 
 
 ## Getting Started
 
@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+To install this theme you will need a wordpress installed on your device.
+After installation you will just have to make a folder in the wp-theme folder and extract all files in that folder. After this you will just have to activate this theme in your wordpress . The demo link for this theme is https://demosunil.000webhostapp.com/ .
 
 ```
 Give examples
