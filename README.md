@@ -19,11 +19,9 @@ After installation you will just have to make a folder in the wp-theme folder an
 the user instructions to make changes in site are in [user instructions](https://www.youtube.com/watch?v=TcbUVezA3BI&feature=youtu.be)
 
 
-## Built With
+## Code Sample
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Code demo](https://www.youtube.com/watch?v=nefsjor266A&feature=youtu.be) 
 
 
 ## Authors
