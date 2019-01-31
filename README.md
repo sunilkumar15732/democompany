@@ -4,16 +4,16 @@ This is a wordpress theme.This theme is based on the theme challenge statement g
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 To install this theme you will need a wordpress installed on your device.
-After installation you will just have to make a folder in the wp-theme folder and extract all files in that folder. After this you will just have to activate this theme in your wordpress . The demo link for this theme is https://demosunil.000webhostapp.com/ .
+After installation you will just have to make a folder in the wp-theme folder and extract all files in that folder. After this you will just have to activate this theme in your wordpress . The demo link for this theme is :-
 
 ```
-Give examples
+https://demosunil.000webhostapp.com/
 ```
 
 ### Installing
