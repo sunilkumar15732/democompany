@@ -697,12 +697,12 @@ a:hover, a:active {
 
 
 .home-slider {
-	height: 335px;
+	
 	background-color: grey;
 }
 
 .home-page-slider{
-	height: 320px;
+	
 	margin-top: 10px;
 }
 
@@ -710,21 +710,7 @@ a:hover, a:active {
 # posta
 --------------------------------------------------------------*/
 
-.post-title{
-	font-family: Georgia;
-	font-size:24px;
-	color: #fff;
-	padding-left: 15px;
-	padding-top: 15px;
-}
 
-.post-description{
-	font-family: Tahoma; 
-	font-size:14px;
-	color: #ccc;
-	padding-left: 15px;
-	padding-right: 16px;
-}
 
 
 .latest-pages{
@@ -813,7 +799,8 @@ background-position: top left, top right;
 	background-color: #F5F5F5	;
 	margin-top: 20px;
 	border: 1px solid rgba(0,0,0,0.2);
-	height: 230px;
+	
+
 
 }
 
