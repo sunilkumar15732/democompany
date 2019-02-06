@@ -21,23 +21,23 @@
 							    padding-right: 0px;
 							">
 				<div class="footer-widgets row ml-0 mr-0">
-					<div class="widget-1 col-3"style="
+					<div class="widget-1 col-sm-3"style="
 							    padding-left: 0px;							    
 							">
 						<?php dynamic_sidebar('footer-1'); ?>
 					</div>
-					<div class="widget-2 col-3"style="
+					<div class="widget-2 col-sm-3"style="
 							    padding-left: 0px;							    
 							">
 						<?php dynamic_sidebar('footer-2'); ?>
 					</div>
-					<div class="widget-3 col-3"style="
+					<div class="widget-3 col-sm-3"style="
 							    padding-left: 0px;							    
 							">
 						<?php dynamic_sidebar('footer-3'); ?>
 						
 					</div>
-					<div class="widget-4 col-3"style="
+					<div class="widget-4 col-sm-3"style="
 							    padding-left: 0px;
 							    padding-right: 0px;
 							">
