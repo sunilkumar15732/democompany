@@ -103,7 +103,7 @@ get_header();
 
 							// The Loop
 							while( $the_query->have_posts()) :  $the_query->the_post(); ?>
-								<div class=" side-post col-4">
+								<div class=" side-post col-sm-4">
 									<div class="side-post-thumbnail">
 							        		<?php the_post_thumbnail();?>
 							        </div>
