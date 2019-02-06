@@ -18,18 +18,25 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
+	<style type="text/css">
+		body{
+			background: <?php echo get_theme_mod('psd2wp_body_bg_color','#fff') ?>
+		}
+	</style>
 
 	<script type="text/javascript">
 		jQuery(document).ready(function(){
 		  jQuery('#slider').slippry()
 		});
 	</script>
+	
 		
 </head>
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'psd2wp' ); ?></a>
+
 
 	<header id="masthead" class="site-header container-fluid">
 		<div class="row">
