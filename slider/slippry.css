@@ -216,13 +216,13 @@
 .sy-caption-wrap {
   position: absolute;
   z-index: 12;
-  top: 8px;
+  top: -5px;
   right: 16px; 
   background: rgba(0, 0, 0, 0.6);
-  width: 310px;
+  width: 35%;
   height: 100%;
   color: #fff;
-  font-size: 24px;
+  font-size: 1.8vw;
   font-family: Georgia;
   text-align: left;
   padding: 20px;
@@ -231,7 +231,7 @@
 }
 
 .sy-caption-wrap p{
-  font-size: 14px;
+  font-size: 1.15vw;
   font-family: Tahoma;
   color: #ccc;
 }
